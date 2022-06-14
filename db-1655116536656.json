@@ -1,0 +1,22 @@
+{
+  "employeeList": [
+    {
+      "id": "123",
+      "name": "raja",
+      "email": "raja@gmail.com",
+      "mobile": "9898009898"
+    },
+    {
+      "id": "456",
+      "name": "ganesh",
+      "email": "ganesh@gmail.com",
+      "mobile": "5656005656"
+    },
+    {
+      "id": "789",
+      "name": "ravi",
+      "email": "ravi@gmail.com",
+      "mobile": "7878007878"
+    }
+  ]
+}
